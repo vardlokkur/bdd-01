@@ -1,4 +1,4 @@
-package warlock.entities.domain;
+package warlock.entities.domain.test;
 
 import java.util.List;
 
