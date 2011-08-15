@@ -2,8 +2,8 @@ package warlock.entities.domain;
 
 import java.math.BigDecimal;
 
-import warlock.entities.CardRetainedException;
-import warlock.entities.InsufficientFundsException;
+import warlock.lang.CardRetainedException;
+import warlock.lang.InsufficientFundsException;
 
 /**
  * ATM.

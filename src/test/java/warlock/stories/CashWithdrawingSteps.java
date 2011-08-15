@@ -11,11 +11,11 @@ import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 import org.springframework.stereotype.Component;
 
-import warlock.entities.CardRetainedException;
-import warlock.entities.InsufficientFundsException;
 import warlock.entities.domain.ATM;
 import warlock.entities.domain.Account;
 import warlock.entities.domain.Card;
+import warlock.lang.CardRetainedException;
+import warlock.lang.InsufficientFundsException;
 
 /**
  * Defines cash withdrawing steps.

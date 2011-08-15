@@ -1,4 +1,4 @@
-package warlock.entities;
+package warlock.lang;
 
 /**
  * Thrown when invalid card is entered into ATM.
